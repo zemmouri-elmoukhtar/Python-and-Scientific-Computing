@@ -1,2 +1,2 @@
 # Python-and-Scientific-Computing
-An introduction to python programming language and scientific computing.
+An introduction to Python programming language and scientific computing.
